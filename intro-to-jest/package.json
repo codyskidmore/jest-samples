@@ -1,0 +1,19 @@
+{
+  "name": "intro-to-jest",
+  "version": "1.0.0",
+  "description": "Introduction to Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^25.2.3",
+    "@types/node": "^14.0.11",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0",
+    "typescript": "^3.9.5"
+  }
+}
